@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{3759A137-E5EB-DE27-2D26-963D95D1580E}") = "3DGraph", "Assembly-CSharp.csproj", "{B3D5667D-0270-26B4-58E5-2B80C5617226}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3D5667D-0270-26B4-58E5-2B80C5617226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3D5667D-0270-26B4-58E5-2B80C5617226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3D5667D-0270-26B4-58E5-2B80C5617226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3D5667D-0270-26B4-58E5-2B80C5617226}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
